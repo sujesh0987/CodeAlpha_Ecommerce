@@ -1,0 +1,6 @@
+{
+  "name": "Walkin Sneakers",
+  "description": "A premium, responsive e-commerce platform for Walkin, a high-end sneaker brand styled in an Elegant Dark theme featuring deep black canvases, zinc-bordered layout structures, and bold orange accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
